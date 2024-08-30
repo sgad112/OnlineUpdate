@@ -1,1 +1,1 @@
-status="on" description="تحديث جديد متاح للتطبيق! يحتوي هذا التحديث على تحسينات جديدة وإصلاحات للأخطاء." version="1.0" link="https://play.google.com/store/apps/details?id=com.adobe.lrmobile"
+status="on" description="تحديث جديد متاح للتطبيق! يحتوي هذا التحديث على تحسينات جديدة وإصلاحات للأخطاء." version="0.0" link="https://play.google.com/store/apps/details?id=com.adobe.lrmobile"
