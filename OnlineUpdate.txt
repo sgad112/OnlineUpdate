@@ -1,3 +1,5 @@
 status="on"
 description="Please update to version 2.0 of 'Xelahot-Cheat'."
 link="https://t.me/XelahotOfficial"
+oldVersion="1"
+newVersion="2"
