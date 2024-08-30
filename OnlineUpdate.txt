@@ -1,5 +1,1 @@
-status="on"
-description="Please update to version 2.0 of 'Xelahot-Cheat'."
-link="https://t.me/XelahotOfficial"
-oldVersion="1"
-newVersion="2"
+status="on" description="تحديث جديد متاح للتطبيق! يحتوي هذا التحديث على تحسينات جديدة وإصلاحات للأخطاء." version="1.0" link="https://play.google.com/store/apps/details?id=com.adobe.lrmobile"
