@@ -1,4 +1,4 @@
 status="on"
-mod="on"
+modStatus="on"
 description="Please update 'Xelahot-Cheat' to continue."
 version="1.0" link="https://t.me/XelahotOfficial"
