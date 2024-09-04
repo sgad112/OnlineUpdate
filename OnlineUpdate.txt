@@ -2,4 +2,4 @@ status="on"
 description="Please update 'Xelahot-Cheat' to continue."
 version="2.0" link="https://t.me/XelahotOfficial"
 
-changelogs="Changelogs"
+changelogs="[#] Change logs\n[+] improved Aim Prediction"
