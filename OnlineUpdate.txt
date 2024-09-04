@@ -2,5 +2,4 @@ status="on"
 description="Please update 'Xelahot-Cheat' to continue."
 version="2.0" link="https://t.me/XelahotOfficial"
 
-changelogs="[#] Change logs
-[#] support 3.3 'PUBGM' all versions"
+changelogs="[#] Change logs | [1] support 3.3 'PUBGM' all versions | [2] bypass online update | [3] smooth esp | [4] aimbot with full control"
