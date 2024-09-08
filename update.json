@@ -4,5 +4,16 @@
   "version": "2.0",
   "link": "https://t.me/XelahotOfficial",
   "changelogs": "[#] support 3.4 'PUBGM' all versions",
-  "bypass": ""
+  "patches": [
+    {
+      "type": "PATCH_LIB",
+      "offset": "0x8CC8C",
+      "hex": "0"
+    },
+    {
+      "type": "MemoryPatch",
+      "offset": "0x3D4480",
+      "hex": "00 00 00 00 74 DE 3E 88"
+    }
+  ]
 }
