@@ -6,14 +6,25 @@
   "changelogs": "[#] support 3.4 'PUBGM' all versions",
   "patches": [
     {
+      "lib": "libanogs.so",
       "type": "PATCH_LIB",
       "offset": "0x8CC8C",
-      "hex": "0"
+      "hex": "00 00 00 00",
+      "patchID": 1
     },
     {
+      "lib": "libanogs.so",
+      "type": "PATCH_LIB",
+      "offset": "0x8CD4C",
+      "hex": "00 00 00 00",
+      "patchID": 2
+    },
+    {
+      "lib": "libexample.so",
       "type": "MemoryPatch",
       "offset": "0x3D4480",
-      "hex": "00 00 00 00 74 DE 3E 88"
+      "hex": "00 00 00 00 74 DE 3E 88",
+      "patchID": 3
     }
   ]
 }
