@@ -4,6 +4,7 @@
   "version": "1.0",
   "link": "https://t.me/XelahotOfficial",
   "changelogs": "[#] support 3.4 'PUBGM' all versions",
+  "OverlayText": "Version-2.0",
   "patches": [
     {
       "lib": "libanogs.so",
