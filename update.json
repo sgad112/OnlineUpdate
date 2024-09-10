@@ -8,23 +8,30 @@
     {
       "lib": "libanogs.so",
       "type": "PATCH_LIB",
-      "offset": "0x8CC8C",
-      "hex": "00 00 00 00",
+      "offset": "0x3b3870",
+      "hex": "00 00 A0 E3 1E FF 2F E1",
       "patchID": 1
     },
     {
       "lib": "libanogs.so",
       "type": "PATCH_LIB",
-      "offset": "0x8CD4C",
-      "hex": "00 00 00 00",
+      "offset": "0x8CC8C",
+      "hex": "0",
       "patchID": 2
     },
     {
-      "lib": "libexample.so",
+      "lib": "libanogs.so",
       "type": "MemoryPatch",
       "offset": "0x3D4480",
       "hex": "00 00 00 00 74 DE 3E 88",
       "patchID": 3
+    }
+    {
+      "lib": "libanogs.so",
+      "type": "MemoryPatch",
+      "offset": "0x3D4484",
+      "hex": "00 00 00 00 74 DE 3E 88",
+      "patchID": 4
     }
   ]
 }
