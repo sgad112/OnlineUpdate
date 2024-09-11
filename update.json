@@ -1,4 +1,6 @@
 {
   "version": "2",
-  "url": "https://example.com/download/latest.apk"
+  "url": "https://example.com/download/latest.apk",
+  "description": "This is a new version with performance improvements.",
+  "changelogs": "1. Fixed bugs\n2. Improved speed\n3. Updated UI"
 }
