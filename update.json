@@ -1,37 +1,4 @@
 {
-  "status": "on",
-  "description": "Please update 'Xelahot-Cheat' to continue.",
-  "version": "2.0",
-  "link": "https://t.me/XelahotOfficial",
-  "changelogs": "[#] support 3.4 'PUBGM' all versions",
-  "patches": [
-    {
-      "lib": "libanogs.so",
-      "type": "PATCH_LIB",
-      "offset": "0x3b3870",
-      "hex": "00 00 A0 E3 1E FF 2F E1",
-      "patchID": 1
-    },
-    {
-      "lib": "libanogs.so",
-      "type": "PATCH_LIB",
-      "offset": "0x8CC8C",
-      "hex": "0",
-      "patchID": 2
-    },
-    {
-      "lib": "libanogs.so",
-      "type": "MemoryPatch",
-      "offset": "0x3D4480",
-      "hex": "00 00 00 00 74 DE 3E 88",
-      "patchID": 3
-    }
-    {
-      "lib": "libanogs.so",
-      "type": "MemoryPatch",
-      "offset": "0x3D4484",
-      "hex": "00 00 00 00 74 DE 3E 88",
-      "patchID": 4
-    }
-  ]
+  "version": "2.0.0",
+  "url": "https://example.com/download/latest.apk"
 }
