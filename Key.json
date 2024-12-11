@@ -1,5 +1,12 @@
 [
   {
+    "free_key": "ThankYou",
+    "status": "active",
+    "start_date": "",
+    "expiry_date": "1d",
+    "devices_allowed": 1
+  },
+  {
     "key": "YaserMods",
     "status": "active",
     "start_date": "",
