@@ -1,7 +1,7 @@
 [
   {
     "key": "YaserMods",
-    "status": "active",
+    "status": "inactive",
     "start_date": "",
     "expiry_date": "60d",
     "devices_allowed": 1
